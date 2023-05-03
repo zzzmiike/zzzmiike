@@ -38,4 +38,4 @@
   <a href="https://www.linkedin.com/in/michael-henrique-teixeira-754b29196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Snake](https://github.com/zzzmiike/zzzmiike/actions/workflows/main.yml/badge.svg)](https://github.com/zzzmiike/zzzmiike/actions/workflows/main.yml)
+![Snake animation](https://github.com/zzzmiike/zzzmiike/blob/output/github-contribution-grid-snake.svg)
