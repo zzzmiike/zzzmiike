@@ -2,7 +2,8 @@
 
 <div>
   <p>-🔭 Hoje eu estou me aprofundando em desenvolvimento full-stack.</p>
-  <p>-🌱 Estou estudando Ánalise e Desenvolvimento de Sistemas pela SP Tech.</p>
+  <p>-🔭 Formado em Biotecnologia pela UFGD.</p>
+  <p>-🌱 Atualmente estou estudando Ánalise e Desenvolvimento de Sistemas pela SP Tech.</p>
 </div>
 <br>
 <br>
@@ -38,4 +39,4 @@
   <a href="https://www.linkedin.com/in/michael-henrique-teixeira-754b29196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/zzzmiike/zzzmiike/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zzzmiike/zzzmiike/blob/output/github-contribution-grid-snake-dark.svg)
