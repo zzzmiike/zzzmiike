@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/zzzmiike">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzmiike&layout=compact&langs_count=7&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zzzmiike&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zzzmiike&show_icons=true&theme=dark&include_all_commits=true"/>
      <img  align="right" width="450px" src="https://api.readyplayer.me/v1/avatars/64519c126b9890ec02e2d08d.png?cacheControl=true&uat=2023-02-18T23:43:52.083Z">
 </div>
 
@@ -40,3 +40,4 @@
 </div>
 
 ![Snake animation](https://github.com/zzzmiike/zzzmiike/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- &count_private=true -->
