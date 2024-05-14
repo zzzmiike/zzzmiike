@@ -1,7 +1,7 @@
 ## Oii! Eu sou o Michael Henrique
 
 <div>
-  <p>-💻 Desenvolvedor de Sistemas - Bradesco S.A.</p>
+  <p>-💻 Desenvolvedor de Sistemas.</p>
   <p>-🔭 Hoje eu estou me aprofundando em desenvolvimento full-stack.</p>
   <p>-🌱 Formado em Biotecnologia pela UFGD.</p>
   <p>-💻 Atualmente estou estudando Ánalise e Desenvolvimento de Sistemas pela SP Tech.</p>
